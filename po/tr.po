@@ -1,0 +1,264 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2008-08-26 10:55-0400\n"
+"Last-Translator: abdullah kocabas <abdullah.kocabas@abcdizustu.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 1.1.0rc2\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Write"
+msgstr "Yazınız."
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Write provides a space to put your words. Write a story, poem, report, "
+"anything! Try changing the look, and size of your text; even insert an image!"
+msgstr ""
+
+#: AbiWordActivity.py:71
+msgid "Connecting..."
+msgstr ""
+
+#: AbiWordActivity.py:101
+msgid "Edit"
+msgstr "Düzenleyiniz."
+
+#: AbiWordActivity.py:107
+msgid "View"
+msgstr "Görünüm"
+
+#: AbiWordActivity.py:123
+msgid "Text"
+msgstr "Metin"
+
+#: AbiWordActivity.py:129
+msgid "Paragraph"
+msgstr ""
+
+#: AbiWordActivity.py:135
+msgid "Table"
+msgstr "Tablo"
+
+#: AbiWordActivity.py:139
+msgid "Insert Image"
+msgstr "Resim ekleyiniz."
+
+#: AbiWordActivity.py:146
+msgid "Floating"
+msgstr ""
+
+#: fontcombobox.py:90
+msgid "Select font"
+msgstr ""
+
+#: speechtoolbar.py:58
+msgid "Play / Pause"
+msgstr ""
+
+#: speechtoolbar.py:66
+msgid "Stop"
+msgstr ""
+
+#: toolbar.py:100
+msgid "Search"
+msgstr ""
+
+#: toolbar.py:117
+msgid "Find previous"
+msgstr "Öncekini bulunuz."
+
+#: toolbar.py:123
+msgid "Find next"
+msgstr "Sonrakini bulunuz."
+
+#: toolbar.py:227
+msgid "Create table"
+msgstr ""
+
+#: toolbar.py:237
+msgid "Insert Row"
+msgstr "Satır Ekleyiniz."
+
+#: toolbar.py:243
+msgid "Delete Row"
+msgstr "Satırı Siliniz."
+
+#: toolbar.py:249
+msgid "Insert Column"
+msgstr "Kolon ekleyiniz."
+
+#: toolbar.py:255
+msgid "Delete Column"
+msgstr "Kolonu Siliniz."
+
+#: toolbar.py:300
+msgid "Zoom Out"
+msgstr "Küçültünüz."
+
+#: toolbar.py:307
+msgid "Zoom In"
+msgstr "Büyültünüz."
+
+#: toolbar.py:313
+msgid "Zoom to width"
+msgstr ""
+
+#: toolbar.py:330
+msgid "%"
+msgstr "%"
+
+#: toolbar.py:342
+msgid "Page: "
+msgstr "Sayfa:"
+
+#: toolbar.py:441
+msgid "Bold"
+msgstr "Kalın"
+
+#: toolbar.py:450
+msgid "Italic"
+msgstr "Eğik"
+
+#: toolbar.py:459
+msgid "Underline"
+msgstr "Altçizgili"
+
+#: toolbar.py:487
+msgid "Choose alignment"
+msgstr ""
+
+#: toolbar.py:495
+msgid "Left justify"
+msgstr ""
+
+#: toolbar.py:499
+msgid "Center justify"
+msgstr ""
+
+#: toolbar.py:503
+msgid "Right justify"
+msgstr ""
+
+#: toolbar.py:507
+msgid "Fill justify"
+msgstr ""
+
+#: toolbar.py:567 toolbar.py:620
+msgid "Normal"
+msgstr "Normal"
+
+#: toolbar.py:578
+msgid "Heading 1"
+msgstr "Başlık 1"
+
+#: toolbar.py:582
+msgid "Heading 2"
+msgstr "Başlık 2"
+
+#: toolbar.py:586
+msgid "Heading 3"
+msgstr "Başlık 3"
+
+#: toolbar.py:590
+msgid "Heading 4"
+msgstr "Başlık 4"
+
+#: toolbar.py:594
+msgid "Block Text"
+msgstr "Metin Parçası"
+
+#: toolbar.py:598
+msgid "Plain Text"
+msgstr "Düz Metin"
+
+#: toolbar.py:612
+msgid "Select list"
+msgstr ""
+
+#: toolbar.py:630
+msgid "Bullet List"
+msgstr "Noktalı Liste"
+
+#: toolbar.py:635
+msgid "Dashed List"
+msgstr "Çizgili Liste"
+
+#: toolbar.py:640
+msgid "Numbered List"
+msgstr "Numaralı Liste"
+
+#: toolbar.py:645
+msgid "Lower Case List"
+msgstr "Küçük Harfli Liste"
+
+#: toolbar.py:650
+msgid "Upper Case List"
+msgstr "Büyük Harfli Liste"
+
+#: widgets.py:119
+msgid "Rich Text (RTF)"
+msgstr "Zengin Metin (RTF)"
+
+#: widgets.py:121
+msgid "RTF"
+msgstr "RTF"
+
+# TDK çevirisi
+#: widgets.py:125
+msgid "Hypertext (HTML)"
+msgstr "Hiper Metin (HTML)"
+
+#: widgets.py:127
+msgid "HTML"
+msgstr "HTML"
+
+#: widgets.py:132
+msgid "Plain Text (TXT)"
+msgstr "Düz Metin (TXT)"
+
+#: widgets.py:134
+msgid "TXT"
+msgstr "TXT"
+
+#: widgets.py:138
+msgid "Portable Document Format (PDF)"
+msgstr ""
+
+#: widgets.py:140
+msgid "PDF"
+msgstr ""
+
+#~ msgid "Cancel"
+#~ msgstr "Vazgeçiniz."
+
+#~ msgid "Image"
+#~ msgstr "Resim"
+
+#~ msgid "Format"
+#~ msgstr "Biçim"
+
+#~ msgid "Choose image"
+#~ msgstr "Resim seçiniz."
+
+#~ msgid "Style: "
+#~ msgstr "Tarz:"

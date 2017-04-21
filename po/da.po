@@ -1,0 +1,258 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2013-06-17 17:54+0200\n"
+"Last-Translator: Aputsiaq Niels <aj@isit.gl>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Write"
+msgstr "Skriv"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Write provides a space to put your words. Write a story, poem, report, "
+"anything! Try changing the look, and size of your text; even insert an image!"
+msgstr ""
+"Programmet Skriv giver plads til at opbevare dine ord. Skriv en historie, et "
+"digt, en rapport, hvad som helst! Prøv at ændre udseendet og størrelsen på "
+"din tekst; endda indsætte et billede!"
+
+#: AbiWordActivity.py:71
+msgid "Connecting..."
+msgstr "Tilslutter ..."
+
+#: AbiWordActivity.py:101
+msgid "Edit"
+msgstr "Redigér"
+
+#: AbiWordActivity.py:107
+msgid "View"
+msgstr "Vis"
+
+#: AbiWordActivity.py:123
+msgid "Text"
+msgstr "Tekst"
+
+#: AbiWordActivity.py:129
+msgid "Paragraph"
+msgstr "Paragraf"
+
+#: AbiWordActivity.py:135
+msgid "Table"
+msgstr "Tabel"
+
+#: AbiWordActivity.py:139
+msgid "Insert Image"
+msgstr "Indsæt billede"
+
+#: AbiWordActivity.py:146
+msgid "Floating"
+msgstr "Flydende"
+
+#: fontcombobox.py:90
+msgid "Select font"
+msgstr "Vælg skrifttype"
+
+#: speechtoolbar.py:58
+msgid "Play / Pause"
+msgstr "Afspil / Pause"
+
+#: speechtoolbar.py:66
+msgid "Stop"
+msgstr "Stop"
+
+#: toolbar.py:100
+msgid "Search"
+msgstr "Søg"
+
+#: toolbar.py:117
+msgid "Find previous"
+msgstr "Find forrige"
+
+#: toolbar.py:123
+msgid "Find next"
+msgstr "Find næste"
+
+#: toolbar.py:227
+msgid "Create table"
+msgstr "Opret tabel"
+
+#: toolbar.py:237
+msgid "Insert Row"
+msgstr "Indsæt række"
+
+#: toolbar.py:243
+msgid "Delete Row"
+msgstr "Slet række"
+
+#: toolbar.py:249
+msgid "Insert Column"
+msgstr "Indsæt kolonne"
+
+#: toolbar.py:255
+msgid "Delete Column"
+msgstr "Slet kolonne"
+
+#: toolbar.py:300
+msgid "Zoom Out"
+msgstr "Zoom ud"
+
+#: toolbar.py:307
+msgid "Zoom In"
+msgstr "Zoom ind"
+
+#: toolbar.py:313
+msgid "Zoom to width"
+msgstr "Zoom til bredde"
+
+#: toolbar.py:330
+msgid "%"
+msgstr "%"
+
+#: toolbar.py:342
+msgid "Page: "
+msgstr "Side: "
+
+#: toolbar.py:441
+msgid "Bold"
+msgstr "Fed"
+
+#: toolbar.py:450
+msgid "Italic"
+msgstr "Kursiv"
+
+#: toolbar.py:459
+msgid "Underline"
+msgstr "Understreget"
+
+#: toolbar.py:487
+msgid "Choose alignment"
+msgstr "Vælg justering"
+
+#: toolbar.py:495
+msgid "Left justify"
+msgstr "Justér venstre"
+
+#: toolbar.py:499
+msgid "Center justify"
+msgstr "Justér midt"
+
+#: toolbar.py:503
+msgid "Right justify"
+msgstr "Justér højre"
+
+#: toolbar.py:507
+msgid "Fill justify"
+msgstr "Lige marginer"
+
+#: toolbar.py:567 toolbar.py:620
+msgid "Normal"
+msgstr "Normal"
+
+#: toolbar.py:578
+msgid "Heading 1"
+msgstr "Overskrift 1"
+
+#: toolbar.py:582
+msgid "Heading 2"
+msgstr "Overskrift 2"
+
+#: toolbar.py:586
+msgid "Heading 3"
+msgstr "Overskrift 3"
+
+#: toolbar.py:590
+msgid "Heading 4"
+msgstr "Overskrift 4"
+
+#: toolbar.py:594
+msgid "Block Text"
+msgstr "Bloktekst"
+
+#: toolbar.py:598
+msgid "Plain Text"
+msgstr "Klartekst"
+
+#: toolbar.py:612
+msgid "Select list"
+msgstr "Vælg liste"
+
+#: toolbar.py:630
+msgid "Bullet List"
+msgstr "Punktopstilling"
+
+#: toolbar.py:635
+msgid "Dashed List"
+msgstr "Stregliste"
+
+#: toolbar.py:640
+msgid "Numbered List"
+msgstr "Nummereret liste"
+
+#: toolbar.py:645
+msgid "Lower Case List"
+msgstr "Liste med små bogstaver"
+
+#: toolbar.py:650
+msgid "Upper Case List"
+msgstr "Liste med store bogstaver"
+
+#: widgets.py:119
+msgid "Rich Text (RTF)"
+msgstr "Rich Text (RTF)"
+
+#: widgets.py:121
+msgid "RTF"
+msgstr "RTF"
+
+#: widgets.py:125
+msgid "Hypertext (HTML)"
+msgstr "Hypertekst (HTML)"
+
+#: widgets.py:127
+msgid "HTML"
+msgstr "HTML"
+
+#: widgets.py:132
+msgid "Plain Text (TXT)"
+msgstr "Klartekst (TXT)"
+
+#: widgets.py:134
+msgid "TXT"
+msgstr "TXT"
+
+#: widgets.py:138
+msgid "Portable Document Format (PDF)"
+msgstr "Portable Document Format (PDF)"
+
+#: widgets.py:140
+msgid "PDF"
+msgstr "PDF"
+
+#~ msgid "Cancel"
+#~ msgstr "Fortryd"
+
+#~ msgid "Export"
+#~ msgstr "Eksportér"

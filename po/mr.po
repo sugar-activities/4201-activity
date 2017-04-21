@@ -1,0 +1,267 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2011-09-11 10:55+0200\n"
+"Last-Translator: <ganeshgajre@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.0.1\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Write"
+msgstr "लिहा"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Write provides a space to put your words. Write a story, poem, report, "
+"anything! Try changing the look, and size of your text; even insert an image!"
+msgstr ""
+
+#: AbiWordActivity.py:71
+msgid "Connecting..."
+msgstr ""
+
+#: AbiWordActivity.py:101
+msgid "Edit"
+msgstr "संपादन करणे"
+
+#: AbiWordActivity.py:107
+msgid "View"
+msgstr "पाहा"
+
+#: AbiWordActivity.py:123
+msgid "Text"
+msgstr "शब्द"
+
+#: AbiWordActivity.py:129
+msgid "Paragraph"
+msgstr "परीच्छेद"
+
+#: AbiWordActivity.py:135
+msgid "Table"
+msgstr "टेबल"
+
+#: AbiWordActivity.py:139
+msgid "Insert Image"
+msgstr "छायाचित्र आत घाला"
+
+#: AbiWordActivity.py:146
+msgid "Floating"
+msgstr "फ्लोटिंग"
+
+#: fontcombobox.py:90
+msgid "Select font"
+msgstr ""
+
+#: speechtoolbar.py:58
+msgid "Play / Pause"
+msgstr ""
+
+#: speechtoolbar.py:66
+msgid "Stop"
+msgstr ""
+
+#: toolbar.py:100
+msgid "Search"
+msgstr "शोधा"
+
+#: toolbar.py:117
+msgid "Find previous"
+msgstr "मागील शोधा"
+
+#: toolbar.py:123
+msgid "Find next"
+msgstr "पुढचे शोधा"
+
+#: toolbar.py:227
+msgid "Create table"
+msgstr ""
+
+#: toolbar.py:237
+msgid "Insert Row"
+msgstr "रांग बनवा"
+
+#: toolbar.py:243
+msgid "Delete Row"
+msgstr "रांग काढून टाका"
+
+#: toolbar.py:249
+msgid "Insert Column"
+msgstr "स्तंभ बनवा"
+
+#: toolbar.py:255
+msgid "Delete Column"
+msgstr "स्तंभ काढून टाका"
+
+#: toolbar.py:300
+msgid "Zoom Out"
+msgstr "झूम आउट"
+
+#: toolbar.py:307
+msgid "Zoom In"
+msgstr "झूम इन"
+
+#: toolbar.py:313
+msgid "Zoom to width"
+msgstr ""
+
+#: toolbar.py:330
+msgid "%"
+msgstr "%"
+
+#: toolbar.py:342
+msgid "Page: "
+msgstr "पृष्ठ: "
+
+#: toolbar.py:441
+msgid "Bold"
+msgstr "बोल्ड"
+
+#: toolbar.py:450
+msgid "Italic"
+msgstr "तिरपा"
+
+#: toolbar.py:459
+msgid "Underline"
+msgstr "अधोरेखित करणे"
+
+#: toolbar.py:487
+msgid "Choose alignment"
+msgstr ""
+
+#: toolbar.py:495
+msgid "Left justify"
+msgstr "डावीकडून रचा"
+
+#: toolbar.py:499
+msgid "Center justify"
+msgstr "मध्यातुन रचा"
+
+#: toolbar.py:503
+msgid "Right justify"
+msgstr "उजवीकडुन रचा"
+
+#: toolbar.py:507
+msgid "Fill justify"
+msgstr "रचलेली जागा भरा"
+
+#: toolbar.py:567 toolbar.py:620
+msgid "Normal"
+msgstr "साधारण"
+
+#: toolbar.py:578
+msgid "Heading 1"
+msgstr "शीर्षक 1"
+
+#: toolbar.py:582
+msgid "Heading 2"
+msgstr "शीर्षक 2"
+
+#: toolbar.py:586
+msgid "Heading 3"
+msgstr "शीर्षक 3"
+
+#: toolbar.py:590
+msgid "Heading 4"
+msgstr "शीर्षक 4"
+
+#: toolbar.py:594
+msgid "Block Text"
+msgstr "गृहसमुदाय शब्ध"
+
+#: toolbar.py:598
+msgid "Plain Text"
+msgstr "साधारण शब्द"
+
+#: toolbar.py:612
+msgid "Select list"
+msgstr ""
+
+#: toolbar.py:630
+msgid "Bullet List"
+msgstr "बुलेट लिस्ट"
+
+#: toolbar.py:635
+msgid "Dashed List"
+msgstr "अधोरेखित यादी"
+
+#: toolbar.py:640
+msgid "Numbered List"
+msgstr "अंक यादी"
+
+#: toolbar.py:645
+msgid "Lower Case List"
+msgstr "छोटी लिपी यादी"
+
+#: toolbar.py:650
+msgid "Upper Case List"
+msgstr "मोठी लिपी यादी"
+
+#: widgets.py:119
+msgid "Rich Text (RTF)"
+msgstr "रिच टेक्स्ट (आर.टी.एफ)"
+
+#: widgets.py:121
+msgid "RTF"
+msgstr "आर.टी.एफ"
+
+#: widgets.py:125
+msgid "Hypertext (HTML)"
+msgstr "हाइपरटेक्स्ट (एच्.टी.एम्.एल्)"
+
+#: widgets.py:127
+msgid "HTML"
+msgstr "एच.टी.एम्.एल्"
+
+#: widgets.py:132
+msgid "Plain Text (TXT)"
+msgstr "सरल शब्द (टी.एक्स.टी)"
+
+#: widgets.py:134
+msgid "TXT"
+msgstr "टी.एक्स.टी"
+
+#: widgets.py:138
+msgid "Portable Document Format (PDF)"
+msgstr "पोर्टेबल डॉक्युमेंट पध्दत(पी.डी.एफ)"
+
+#: widgets.py:140
+msgid "PDF"
+msgstr "पी.डी.एफ"
+
+#~ msgid "Cancel"
+#~ msgstr "रद्द करणे"
+
+#~ msgid "Export"
+#~ msgstr "स्वरुप बदला"
+
+#~ msgid "Image"
+#~ msgstr " छायाचित्र"
+
+#~ msgid "Format"
+#~ msgstr "बघा"
+
+#~ msgid "Choose image"
+#~ msgstr "चित्र निवडा "
+
+#~ msgid "Style: "
+#~ msgstr "शैली"

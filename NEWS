@@ -1,0 +1,187 @@
+66
+
+* Revert export button
+
+65
+
+* #1145 Do not propagate current paragraph format while moving cursor
+
+64
+
+* Utilize new toolbars
+* #1121 Write canvas redraw glitch when locking open a secondary toolbar
+* #1120 Fix MANIFEST file
+* #1122 New Write primary toolbar icon design does not all fit in the toolbar
+
+58
+
+* Fix 6021: Write crash on buddy left
+* Add license field to activity.info
+
+57
+
+* Translation release
+
+56
+
+* Translation release
+
+55
+
+* Translation release
+
+54
+
+* Fix 4871: the write save as entries of the journal come up uncolored (rwh)
+* Fix 4861: Incremental find cycles through words while typing (uwog)
+
+53
+
+* Use 'instance' instead of 'data' as a path prefix; part of 4850 (uwog)
+
+52
+
+* Fix 4731: Find control should have embedded search/cancel icons (uwog)
+
+51
+
+* Fix 4614: Write should change the order of the zoom icons (uwog)
+* Fix 4022: Write should not change the format of an opened journal entry (uwog)
+* Remove tons of hacks to go with the new AbiWidget version (uwog)
+
+50
+
+* First implementation of 4165: Write must expose UI to 
+  allow specifying output format (uwog)
+* Update .pot file with new strings (uwog)
+
+49
+
+* Enable/disable the search functions based on the input (uwog)
+* Support for searching text (foddex, tiny bit of uwog)
+* Support custom keybindings (foddex)
+
+48
+
+* Fix 2124: Fail to page in Write (foddex)
+* Fix 3899: do not use set_title (uwog)
+
+47
+
+* Advertise odt support (marco)
+
+45
+
+* Update spanish translation (beckerde)
+
+44
+
+* Update spanish translation (beckerde)
+
+43
+
+* Update spanish translation (beckerde)
+
+42
+
+* Initial german translation (fab)
+
+41
+
+* Fix #3319: default tab should be 'text' (uwog)
+
+40
+
+* Add first 3000 words indexing (tomeu)
+
+39
+
+* The part needed in write for viewing the source of browse #3261 (erikos)
+* Updated the translations for new strings (uwog)
+
+38
+
+* Updated activity icon (erikos)
+
+37
+
+* (Temporary) add styles used by loaded documents that are not available 
+  by default to the style dropdown list (uwog)
+* (Temporary) add fonts used by loaded documents that are not available 
+  on the system to the font dropdown list (uwog)
+* Set a tooltip on various menu items (#821) (uwog)
+* Hook up the abiword canvas 'style-name' signal to the Format toolbar (uwog)
+* Hook up the abiword canvas 'font-family' signal to the Text toolbar (uwog)
+* Add a format-text-size icon before the text size selection dropdown (uwog)
+* Don't forget to actually show the separators in the Text toolbar (uwog)
+* Add a Style label before the Style combobox (uwog)
+* Hook up the abiword canvas 'font-size' signal to the Text toolbar (uwog)
+
+36
+
+* Use a journal object picker when inserting images, instead of a normal
+  GTK+ Open File dialog (uwog)
+* Port to new tubes API (cassidy)
+* Add supported mimetypes for abiword, msword, xhtml, html and rtf (uwog)
+* Add a format toolbar (uwog)
+* Implement basic style support (uwog)
+* Make style names translatable (uwog)
+
+35
+
+* Update zoom icon names
+* Adapt icon names to the new API
+
+34
+
+* Add French translation. (Samuel Bizien)
+
+33
+
+* Add Greek translation. (simosx)
+
+32
+
+* #2370 Add spanish translation (xavi)
+
+31
+
+* Add macedonian translation.
+
+30
+
+* Update some icons (uwog)
+* Implement full justification (uwog)
+* Workaround for missing buddy removed in _on_dbus_names_changed (uwog)
+* Implement buddies leaving (uwog)
+* Workaround for wrong view margin size calculation (uwog)
+* Remove the border around the view (uwog)
+* Connect to the zoom signal to show the currect zoom level (uwog)
+
+29
+
+* Use a logger for the toolbar (uwog)
+
+28
+
+* add total page count label (uwog)
+* replace print's with proper logger calls (uwog)
+* Implement a color button, which respects the cursors context (uwog)
+
+27
+
+* Make sure the table icon shows up (uwog)
+* Use ToolComboBoxes for ComboBoxes om the toolbar (uwog)
+
+25
+
+* Add brazilian translation. (DiegoZacarao)
+
+24
+
+* Set the right mime type when saving to the journal. (tomeu)
+
+23
+
+* Arabian translation.
+* Adapt to combobox API change.

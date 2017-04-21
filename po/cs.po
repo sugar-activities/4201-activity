@@ -1,0 +1,268 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-06-12 00:30-0400\n"
+"PO-Revision-Date: 2012-08-22 02:45+0200\n"
+"Last-Translator: Chris <cjl@laptop.org>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: Pootle 2.0.5\n"
+
+#. TRANS: "name" option from activity.info file
+msgid "Write"
+msgstr "Psát"
+
+#. TRANS: "summary" option from activity.info file
+#. TRANS: "description" option from activity.info file
+msgid ""
+"Write provides a space to put your words. Write a story, poem, report, "
+"anything! Try changing the look, and size of your text; even insert an image!"
+msgstr ""
+
+#: AbiWordActivity.py:71
+msgid "Connecting..."
+msgstr ""
+
+#: AbiWordActivity.py:101
+msgid "Edit"
+msgstr "Upravit"
+
+#: AbiWordActivity.py:107
+msgid "View"
+msgstr "Zobrazit"
+
+#: AbiWordActivity.py:123
+msgid "Text"
+msgstr "Text"
+
+#: AbiWordActivity.py:129
+msgid "Paragraph"
+msgstr "bod"
+
+#: AbiWordActivity.py:135
+msgid "Table"
+msgstr "Tabulka"
+
+#: AbiWordActivity.py:139
+msgid "Insert Image"
+msgstr "Vložit obrázek"
+
+#: AbiWordActivity.py:146
+msgid "Floating"
+msgstr "Plovoucí"
+
+#: fontcombobox.py:90
+msgid "Select font"
+msgstr ""
+
+#: speechtoolbar.py:58
+msgid "Play / Pause"
+msgstr "Přehrát / Pozastavit"
+
+#: speechtoolbar.py:66
+msgid "Stop"
+msgstr "Zastavit"
+
+#: toolbar.py:100
+msgid "Search"
+msgstr "Hledání"
+
+#: toolbar.py:117
+msgid "Find previous"
+msgstr "Najít předchozí"
+
+#: toolbar.py:123
+msgid "Find next"
+msgstr "Najít další"
+
+#: toolbar.py:227
+msgid "Create table"
+msgstr ""
+
+#: toolbar.py:237
+msgid "Insert Row"
+msgstr "Vložit Řádek"
+
+#: toolbar.py:243
+msgid "Delete Row"
+msgstr "Odebrat Řádek"
+
+#: toolbar.py:249
+msgid "Insert Column"
+msgstr "Vložit Sloupec"
+
+#: toolbar.py:255
+msgid "Delete Column"
+msgstr "Odebrat Sloupec"
+
+#: toolbar.py:300
+msgid "Zoom Out"
+msgstr "Zmenšit"
+
+#: toolbar.py:307
+msgid "Zoom In"
+msgstr "Zvětšit"
+
+#: toolbar.py:313
+msgid "Zoom to width"
+msgstr "Přiblížení na šířku"
+
+#: toolbar.py:330
+msgid "%"
+msgstr "%"
+
+#: toolbar.py:342
+msgid "Page: "
+msgstr "Stránka: "
+
+#: toolbar.py:441
+msgid "Bold"
+msgstr "Tučně"
+
+#: toolbar.py:450
+msgid "Italic"
+msgstr "Kurzíva"
+
+#: toolbar.py:459
+msgid "Underline"
+msgstr "Podtrhnout"
+
+#: toolbar.py:487
+msgid "Choose alignment"
+msgstr ""
+
+#: toolbar.py:495
+msgid "Left justify"
+msgstr "Zarovnat vlevo"
+
+#: toolbar.py:499
+msgid "Center justify"
+msgstr "Zarovnat na střed"
+
+#: toolbar.py:503
+msgid "Right justify"
+msgstr "Zarovnat vpravo"
+
+#: toolbar.py:507
+msgid "Fill justify"
+msgstr "Zarovnat do bloku"
+
+#: toolbar.py:567 toolbar.py:620
+msgid "Normal"
+msgstr "Normální"
+
+#: toolbar.py:578
+msgid "Heading 1"
+msgstr "Záhlaví 1"
+
+#: toolbar.py:582
+msgid "Heading 2"
+msgstr "Záhlaví 2"
+
+#: toolbar.py:586
+msgid "Heading 3"
+msgstr "Záhlaví 3"
+
+#: toolbar.py:590
+msgid "Heading 4"
+msgstr "Záhlaví 4"
+
+#: toolbar.py:594
+msgid "Block Text"
+msgstr "Blok textu"
+
+#: toolbar.py:598
+msgid "Plain Text"
+msgstr "Prostý Text"
+
+#: toolbar.py:612
+msgid "Select list"
+msgstr ""
+
+#: toolbar.py:630
+msgid "Bullet List"
+msgstr "Odrážky ve tvaru kuliček"
+
+#: toolbar.py:635
+#, fuzzy
+msgid "Dashed List"
+msgstr "Přerušovaný ?"
+
+#: toolbar.py:640
+msgid "Numbered List"
+msgstr "Číslovaný seznam"
+
+#: toolbar.py:645
+msgid "Lower Case List"
+msgstr "Abecední seznam odspodu"
+
+#: toolbar.py:650
+msgid "Upper Case List"
+msgstr "Abecední seznam odvrchu"
+
+#: widgets.py:119
+msgid "Rich Text (RTF)"
+msgstr "Rich Text (RTF)"
+
+#: widgets.py:121
+msgid "RTF"
+msgstr "RTF"
+
+#: widgets.py:125
+msgid "Hypertext (HTML)"
+msgstr "Hypertext (HTML)"
+
+#: widgets.py:127
+msgid "HTML"
+msgstr "HTML"
+
+#: widgets.py:132
+msgid "Plain Text (TXT)"
+msgstr "Prostý Text (TXT)"
+
+#: widgets.py:134
+msgid "TXT"
+msgstr "TXT"
+
+#: widgets.py:138
+msgid "Portable Document Format (PDF)"
+msgstr "Portable Document Format (PDF)"
+
+#: widgets.py:140
+msgid "PDF"
+msgstr "PDF"
+
+#~ msgid "Cancel"
+#~ msgstr "Zrušit"
+
+#~ msgid "Export"
+#~ msgstr "Export"
+
+#~ msgid "Image"
+#~ msgstr "Obrázek"
+
+#~ msgid "Format"
+#~ msgstr "Formát"
+
+#~ msgid "Choose image"
+#~ msgstr "Vybrat obrázek"
+
+#~ msgid "Style: "
+#~ msgstr "Styl:"
